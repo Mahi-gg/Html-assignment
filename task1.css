@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+textarea {
+    width: 300px;
+    height: 120px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#count {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
